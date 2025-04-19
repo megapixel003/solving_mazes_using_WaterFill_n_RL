@@ -5,7 +5,7 @@ import random
 from collections import deque
 
 # Maze parameters
-SIZE = 31  # Size of the maze (must be odd)
+SIZE = 41  # Size of the maze (must be odd)
 start = (1, 1)
 goal = (SIZE//2, SIZE//2)
 
